@@ -2,14 +2,7 @@
 #define TIMELINE_CONTROL_H
 
 #include <string>
-#include <random>
-#include <set>
 #include <map>
-
-#include "QtConcurrent\qtconcurrentrun.h"
-#include <QFutureWatcher>
-#include <future>
-#include <QEventLoop>
 
 namespace TestProject
 {

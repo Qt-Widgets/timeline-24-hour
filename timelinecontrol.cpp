@@ -1,4 +1,6 @@
 #include "timelinecontrol.h"
+#include <random>
+#include <set>
 
 using namespace TestProject;
 

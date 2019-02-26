@@ -3,13 +3,10 @@
 
 #include "timelinecontrol.h"
 
+#include <set>
+
 #include <QWidget>
-#include <QPen>
-#include <QBrush>
-#include <QRect>
 
-
-#include <vector>
 
 namespace TestProject
 {

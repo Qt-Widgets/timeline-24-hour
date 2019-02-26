@@ -14,7 +14,7 @@ public:
     explicit MainWindow(QWidget* parent = nullptr);
 
 private:
-    QLineEdit * m_currentAmountWidget;
+    QLineEdit* m_currentAmountWidget;
     TestProject::TimelineWidget* m_timeline;
 
     std::unique_ptr<TestProject::TimelineControl> m_timelineControl;
